@@ -1,0 +1,6 @@
+TP-Final/uw-madison-gi-tract-image-segmentation.zip
+TP-Final/uw-madison-gi-tract-image-segmentation/
+# ignora todos los documentos dentro de la carpeta TP-Final/uw-madison-gi-tract-image-segmentation y sub carpetas
+TP-Final/uw-madison-gi-tract-image-segmentation/*
+# ignora todos las imagenes dentro de la carpeta TP-Final/uw-madison-gi-tract-image-segmentation y sub carpetas
+TP-Final/uw-madison-gi-tract-image-segmentation/**/**/**/**/**/*.png
